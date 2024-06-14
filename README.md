@@ -1,1 +1,1 @@
-# MATLAB_Inflation_Analysis
+# MATLAB Inflation Analysis
